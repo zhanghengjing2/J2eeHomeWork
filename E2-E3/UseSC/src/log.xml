@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log> 
+  <action> 
+    <name>login</name>  
+    <s-time>2018-12-11 14:11:28</s-time>  
+    <e-time>2018-12-11 14:11:28</e-time>  
+    <result>success</result> 
+  </action>  
+  <action> 
+    <name>login</name>  
+    <s-time>2018-12-11 15:42:53</s-time>  
+    <e-time>2018-12-11 15:42:53</e-time>  
+    <result>success</result> 
+  </action>  
+  <action> 
+    <name>login</name>  
+    <s-time>2018-12-11 19:43:23</s-time>  
+    <e-time>2018-12-11 19:43:23</e-time>  
+    <result>success</result> 
+  </action>  
+  <action> 
+    <name>login</name>  
+    <s-time>2018-12-11 19:45:23</s-time>  
+    <e-time>2018-12-11 19:45:23</e-time>  
+    <result>success</result> 
+  </action>  
+  <action> 
+    <name>register</name>  
+    <s-time>2018-12-11 19:45:43</s-time>  
+    <e-time>2018-12-11 19:45:43</e-time>  
+    <result>success</result> 
+  </action>  
+  <action> 
+    <name>register</name>  
+    <s-time>2018-12-11 19:46:04</s-time>  
+    <e-time>2018-12-11 19:46:04</e-time>  
+    <result>success</result> 
+  </action>  
+  <action> 
+    <name>login</name>  
+    <s-time>2018-12-11 19:51:14</s-time>  
+    <e-time>2018-12-11 19:51:14</e-time>  
+    <result>failure</result> 
+  </action>  
+  <action> 
+    <name>login</name>  
+    <s-time>2018-12-11 19:51:29</s-time>  
+    <e-time>2018-12-11 19:51:29</e-time>  
+    <result>failure</result> 
+  </action>  
+  <action> 
+    <name>login</name>  
+    <s-time>2018-12-11 19:51:49</s-time>  
+    <e-time>2018-12-11 19:51:49</e-time>  
+    <result>failure</result> 
+  </action>  
+  <action> 
+    <name>login</name>  
+    <s-time>2018-12-11 20:08:19</s-time>  
+    <e-time>2018-12-11 20:08:19</e-time>  
+    <result>failure</result> 
+  </action>  
+  <action> 
+    <name>login</name>  
+    <s-time>2018-12-11 20:08:32</s-time>  
+    <e-time>2018-12-11 20:08:32</e-time>  
+    <result>failure</result> 
+  </action>  
+  <action> 
+    <name>login</name>  
+    <s-time>2018-12-11 20:08:49</s-time>  
+    <e-time>2018-12-11 20:08:49</e-time>  
+    <result>success</result> 
+  </action>  
+  <action>
+    <name>login</name>
+    <s-time>2018-12-11 21:26:58</s-time>
+    <e-time>2018-12-11 21:26:58</e-time>
+    <result>success</result>
+  </action>
+</log>
