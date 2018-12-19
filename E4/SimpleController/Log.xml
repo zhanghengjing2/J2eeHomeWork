@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log> 
+  <action>
+    <name>hello</name>
+    <s-time>2018-12-09</s-time>
+    <e-time>2018-12-10</e-time>
+    <result>success</result>
+  </action>
+</log>
