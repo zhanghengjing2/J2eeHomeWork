@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OR-Mappings>
+	<jdbc>
+		<property>
+			<name>driver_class</name>
+			<value>com.mysql.jdbc.Driver</value>
+		</property>
+		<property>
+			<name>url_path</name>
+			<value>jdbc:mysql://localhost:3306/j2ee</value>
+		</property>
+		<property>
+			<name>db_username</name>
+			<value>root</value>
+		</property>
+		<property>
+			<name>db_userpassword</name>
+			<value>zhj1996520</value>
+		</property>
+		<property>
+			<name>db_select</name>
+			<value>1</value>
+		</property>
+	</jdbc>
+	
+	<class>
+		<name>UserBean</name>
+		<table>UserInfo</table>
+		<id>
+			<name>userID</name>
+		</id>
+		<property>
+			<name>userName</name>
+			<column>zhj</column>
+			<type>String</type>
+			<lazy>false</lazy>
+		</property>
+		<property>
+			<name>userPass</name>
+			<column>123</column>
+			<type>String</type>
+			<lazy>true</lazy>
+		</property>
+	</class>
+</OR-Mappings>
